@@ -1,7 +1,5 @@
-# Firmware-ESP8266-modbus-RTU
-Hướng dẫn nạp Firmware- ESP8266ModbusRTUMaster.v1.bin
 
-0.	Giới thiệu
+#	Giới thiệu
 Firmware này dùng để lấy thông số các địa chỉ thanh ghi qua Modbus RTU, truyền thông số này qua wifi về các server như MQTT và blynk. Phù hợp với các dự án công nghiệp, Scada , truyền thông không dây,.. với chức năng chính:
 - Người dùng tự cấu hình wifi
 - Người dùng tự cấu hình tài khoản server MQTT và Blynk
